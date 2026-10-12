@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "Create concise knowledge cards from articles and text files"
+  default_prompt: "Use $make-knowledge-cards to turn this article or local Markdown/TXT file into source-faithful knowledge cards."
